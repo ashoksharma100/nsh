@@ -1,0 +1,28 @@
+{
+  "Books": [
+    {
+      "Title": "SkyPath",
+      "Author": "Ms Anamika Dutta",
+      "Class": "1",
+      "ISBN": "9789352720927",
+      "ConfigJs": "https://digitopper.com/nsh/English/Book_3/data/config.js",
+      "BookImageUrl": "https://digitopper.com/nsh/English/Book_3/resources/book/file-page1.jpg",
+      "LikeNum": "5",
+      "LikeRating": "5.4",
+      "bookpath": "https://digitopper.com/nsh/English/Book_3/",
+      "SearchURL": "https://digitopper.com/nsh/English/Book_3/data/Search.content.js"
+    },
+    {
+      "Title": "Hindi",
+      "Author": "Dr Shalini Verma",
+      "Class": "1",
+      "ISBN": "9789352726134",
+      "ConfigJs": "https://digitopper.com/nsh/Hindi/Book_3/data/config.js",
+      "BookImageUrl": "https://digitopper.com/nsh/Hindi/Book_3/resources/book/file-page1.jpg",
+      "LikeNum": "2",
+      "LikeRating": "3.0",
+      "bookpath": "https://digitopper.com/nsh/Hindi/Book_3/",
+      "SearchURL": "https://digitopper.com/nsh/Hindi/Book_3/data/search.content.js"
+    }
+  ]
+}
